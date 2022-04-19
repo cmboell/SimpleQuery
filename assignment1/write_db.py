@@ -1,3 +1,11 @@
+"""
+Assignment name: Simple Query Assignment
+Program: write_db.py
+Author: Colby Boell
+Last date modified: 04/18/2022
+
+The purpose of this program is to  use a database to run a simple query
+"""
 import sqlite3
 from sqlite3 import Error
 
